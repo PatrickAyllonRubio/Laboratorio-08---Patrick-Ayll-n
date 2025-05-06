@@ -1,0 +1,201 @@
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\Laboratorio09 - Patrick Hugo Ayllón Rubio.csproj.AssemblyReference.cache
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\Laboratorio09 - Patrick Hugo Ayllón Rubio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\Laboratorio09 - Patrick Hugo Ayllón Rubio.AssemblyInfoInputs.cache
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\Laboratorio09 - Patrick Hugo Ayllón Rubio.AssemblyInfo.cs
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\Laboratorio09 - Patrick Hugo Ayllón Rubio.csproj.CoreCompileInputs.cache
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\Laboratorio09 - Patrick Hugo Ayllón Rubio.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\Laboratorio09 - Patrick Hugo Ayllón Rubio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\Laboratorio09 - Patrick Hugo Ayllón Rubio.RazorAssemblyInfo.cache
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\Laboratorio09 - Patrick Hugo Ayllón Rubio.RazorAssemblyInfo.cs
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\appsettings.json
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\Laboratorio09 - Patrick Hugo Ayllón Rubio.staticwebassets.runtime.json
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\Laboratorio09 - Patrick Hugo Ayllón Rubio.staticwebassets.endpoints.json
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\Laboratorio09 - Patrick Hugo Ayllón Rubio.exe
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\Laboratorio09 - Patrick Hugo Ayllón Rubio.deps.json
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\Laboratorio09 - Patrick Hugo Ayllón Rubio.runtimeconfig.json
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\Laboratorio09 - Patrick Hugo Ayllón Rubio.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\Laboratorio09 - Patrick Hugo Ayllón Rubio.pdb
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\Humanizer.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\MySqlConnector.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\scopedcss\bundle\Laboratorio09 - Patrick Hugo Ayllón Rubio.styles.css
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\scopedcss\projectbundle\Laboratorio09 - Patrick Hugo Ayllón Rubio.bundle.scp.css
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\m14xfgwwjx-b9sayid5wm.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\bcly9hkf58-61n19gt1b8.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\il0w5d3h09-xtxxf3hu2r.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\cjm2hw4krm-t1cqhe9u97.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\sf4oouz3sy-c2jlpeoesf.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\n3q2ser9ds-sejl45xvog.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\aihc6a40id-aexeepp0ev.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\uudrv48so2-xvp3kq03qx.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\jz5q9eeguk-ausgxo2sd3.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\dyyepkux7y-22vffe00uq.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\uxjm1ke7nd-cosvhxvwiu.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\vzkoyalwk1-qesaa3a1fm.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\yv3yb5b14o-fvhpjtyr6v.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\xlr9qqb40r-tmc1g35s3z.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\iuftd0bwmc-fsbi9cje9m.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\n2khfm4v05-rxsg74s51o.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\el2vknzdmz-ee0r1s7dh0.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\lqthd4q2za-q9ht133ko3.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\anv3bkiswx-jd9uben2k1.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\yaoksf171r-gye83jo8yx.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\fclk235gxu-r4e9w2rdcm.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\pva6ay03fs-wl58j5mj3v.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\9c1fkbrcfp-c2oey78nd0.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\65dlger5lp-d4r6k3f320.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\wytifhpno8-j5mq2jizvt.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\sqk9jh5ipo-keugtjm085.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\lu4az37p5k-nvvlpmu67g.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\oa4j3q4zuj-zub09dkrxp.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\e58dc58e8y-pj5nd1wqec.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\m1fp3nzisq-43atpzeawx.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\vnjvrg6o35-v0zj4ognzu.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\tsg6wzo32m-ynyaa8k90p.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\womo04irwf-hrwsygsryq.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\kkwx4ree4r-c63t5i9ira.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\wk7jdivijk-ft3s53vfgj.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\9zmacxnniz-4094rpi4f9.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\w36mbo67zh-6pdc2jztkx.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\ncm6rpka9z-hd3gran6i8.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\oul9ne7ujq-iovd86k7lj.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\bnwt2wanyz-ltid2c489k.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\nl86qlfghx-kbrnm935zg.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\ka9wwbvjr2-8vyfqsqgz1.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\ingncpseij-y7v9cxd14o.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\p3anz88xed-u9q1upor1n.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\qu2ft2xrl2-h1s4sie4z3.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\cdh9bg3qpr-4d85u1mtcx.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\4pcfchckqj-0j3bgjxly4.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\flcfrarx7v-03hjc8e09r.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\wahtkocrai-48y08845bh.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\no559lhl0h-356vix0kms.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\rlx6n91ewy-83jwlth58m.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\zm0ntnco7w-mrlpezrjn3.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\8g9nsx37n8-worgj0nhwm.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\3eujpbkx1t-gk0pw8i4co.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\hhmg11enim-x0q3zqp4vz.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\6foxjxamqq-d6nrnj6jjx.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\d9j84r0x0q-m9qm4tazc0.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\u07d1ipqvz-ttgo8qnofa.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\od8l54ann3-jjsuc0puko.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\4gnr8yhwzl-9vr69e8ynj.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\rhpm6cofap-87fc7y1x7t.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\8uxu4wf59e-mlv21k5csn.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\5alyj7641j-rf419vulwa.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\compressed\7h67brlb9j-rf419vulwa.gz
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\staticwebassets\msbuild.Laboratorio09 - Patrick Hugo Ayllón Rubio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\staticwebassets\msbuild.Laboratorio09 - Patrick Hugo Ayllón Rubio.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\staticwebassets\msbuild.build.Laboratorio09 - Patrick Hugo Ayllón Rubio.props
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Laboratorio09 - Patrick Hugo Ayllón Rubio.props
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Laboratorio09 - Patrick Hugo Ayllón Rubio.props
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\Laborato.404D28F3.Up2Date
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\Laboratorio09 - Patrick Hugo Ayllón Rubio.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\refint\Laboratorio09 - Patrick Hugo Ayllón Rubio.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\Laboratorio09 - Patrick Hugo Ayllón Rubio.pdb
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\Laboratorio09 - Patrick Hugo Ayllón Rubio.genruntimeconfig.cache
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\ref\Laboratorio09 - Patrick Hugo Ayllón Rubio.dll
