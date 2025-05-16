@@ -1,6 +1,7 @@
 using Laboratorio09___Patrick_Hugo_Ayllón_Rubio.Data;
 using Laboratorio09___Patrick_Hugo_Ayllón_Rubio.Data.Repositories;
 using Laboratorio09___Patrick_Hugo_Ayllón_Rubio.Data.UnitofWork;
+using Laboratorio09___Patrick_Hugo_Ayllón_Rubio.Services;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -18,7 +19,9 @@ builder.Services.AddDbContext<LinqExampleContext>(options =>
 // Registro de UnitOfWork y repositorio genérico
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
-builder.Services.AddScoped<IOrderRepository, OrderRepository>();
+builder.Services.AddScoped<IClientService, ClientService>();
+builder.Services.AddScoped<IProductService, ProductService>();
+builder.Services.AddScoped<IOrderService, OrderService>();
 
 // CORS opcional si lo deseas usar con frontend más adelante
 builder.Services.AddCors(options =>

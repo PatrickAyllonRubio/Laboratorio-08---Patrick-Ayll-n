@@ -1,5 +1,6 @@
 using System.Linq.Expressions;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Query;
 
 namespace Laboratorio09___Patrick_Hugo_Ayllón_Rubio.Data.Repositories
 {
@@ -19,26 +20,25 @@ namespace Laboratorio09___Patrick_Hugo_Ayllón_Rubio.Data.Repositories
             return await _dbSet.FindAsync(id);
         }
 
-        public async Task<IEnumerable<TEntity>> GetAllAsync()
-        {
-            return await _dbSet.ToListAsync();
-        }
-
-        // Modificado para aceptar parámetros de tipo Expression<Func<TEntity, object>>[] para incluir relaciones
-        public async Task<IEnumerable<TEntity>> FindAsync(
-            Expression<Func<TEntity, bool>> predicate,
-            params Expression<Func<TEntity, object>>[] includes) // Agregamos parámetros de "include"
+        public async Task<IEnumerable<TEntity>> GetAllAsync(
+            Expression<Func<TEntity, bool>>? predicate = null,
+            Func<IQueryable<TEntity>, IIncludableQueryable<TEntity, object>>? include = null)
         {
             IQueryable<TEntity> query = _dbSet;
 
-            // Aplicamos el Include para cada propiedad relacionada pasada como parámetro
-            foreach (var include in includes)
-            {
-                query = query.Include(include);
-            }
+            if (predicate != null)
+                query = query.Where(predicate);
 
-            // Aplicamos el filtro y ejecutamos la consulta
-            return await query.Where(predicate).ToListAsync();
+            if (include != null)
+                query = include(query);
+
+            return await query.ToListAsync();
+        }
+
+
+        public async Task<IEnumerable<TEntity>> FindAsync(Expression<Func<TEntity, bool>> predicate)
+        {
+            return await _dbSet.Where(predicate).ToListAsync();
         }
 
         public async Task AddAsync(TEntity entity)

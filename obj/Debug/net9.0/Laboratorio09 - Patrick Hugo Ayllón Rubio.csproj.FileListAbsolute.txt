@@ -199,3 +199,4 @@ C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laborato
 C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\Laboratorio09 - Patrick Hugo Ayllón Rubio.pdb
 C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\Laboratorio09 - Patrick Hugo Ayllón Rubio.genruntimeconfig.cache
 C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\ref\Laboratorio09 - Patrick Hugo Ayllón Rubio.dll
+C:\Users\patri\RiderProjects\Laboratorio09 - Patrick Hugo Ayllón Rubio\Laboratorio09 - Patrick Hugo Ayllón Rubio\obj\Debug\net9.0\Laboratorio09 - Patrick Hugo Ayllón Rubio.sourcelink.json
